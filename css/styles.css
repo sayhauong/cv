@@ -38,10 +38,12 @@ p{
 }
 
 .mid-container{
+    position: relative;
 }
 
 .bottom-container{
   background-color: #66BFBF;
+  position: relative;
   padding-top: 50px;
 }
 
@@ -82,6 +84,7 @@ p{
 hr{
   border-top: 10px dotted #EAF6F6;
   width: 100px;
+
 }
 .contact-me{
   margin: 50px auto;
